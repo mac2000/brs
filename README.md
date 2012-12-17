@@ -2,6 +2,8 @@ Backup, restore and sync scripts
 ================================
 
 	TODO: make install script
+	#read -e -p "www path: " WWW_PATH
+	#echo $WWW_PATH
 
 Get needed scripts and change their settings.
 
@@ -18,3 +20,4 @@ Also do not forget to create backups directory:
 And make it not accessible:
 
 	chmod 700 /home/mac/backups
+
