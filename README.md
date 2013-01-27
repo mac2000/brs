@@ -23,5 +23,4 @@ And make it not accessible:
 
 To get copy of files use:
 
-	wget https://raw.github.com/mac2000/brs/master/backup.sh -O ~/
-	wget https://raw.github.com/mac2000/brs/master/restore.sh -O ~/
+	wget https://raw.github.com/mac2000/brs/master/backup.sh --no-check-certificate
