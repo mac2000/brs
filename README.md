@@ -21,3 +21,7 @@ And make it not accessible:
 
 	chmod 700 /home/mac/backups
 
+To get copy of files use:
+
+	wget https://raw.github.com/mac2000/brs/master/backup.sh -O ~/
+	wget https://raw.github.com/mac2000/brs/master/restore.sh -O ~/
